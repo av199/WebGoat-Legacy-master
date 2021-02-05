@@ -10,7 +10,7 @@ import org.owasp.webgoat.lessons.AbstractLesson;
 import org.owasp.webgoat.session.Course;
 import org.owasp.webgoat.session.WebSession;
 
-// comment dgfdgfd
+// comment 
 /***************************************************************************************************
  * 
  *
