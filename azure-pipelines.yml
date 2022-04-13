@@ -23,5 +23,5 @@ steps:
 - task: NexusIqPipelineTask@1
   inputs:
     nexusIqService: 'iq_server'
-    applicationId: 'java-wb-l-master'
+    applicationId: 'java-wb-l-master2'
     stage: 'Build'
